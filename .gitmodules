@@ -1,0 +1,3 @@
+[submodule "ms_catalogo"]
+	path = ms_catalogo
+	url = https://github.com/302xdwill/DAD-2025.git
